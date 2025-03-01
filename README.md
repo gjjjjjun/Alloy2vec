@@ -19,4 +19,4 @@ This repository contains the dataset and source code used in our study, *"Invers
 
 1. Clone the repository:
    ```bash
-   git clone https://www.github.com/your-repository-name.git
+   git clone https://github.com/gjjjjjun/Alloy2vec.git
